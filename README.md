@@ -5,7 +5,7 @@ A simple and responsive **sample product page** built with HTML, CSS, and JavaSc
 ## 📸 Preview
 
 <p align="center">
-  <img src="../MMMMMMMMM.png" alt="To-Do List Preview" width="700">
+  <img src="/../MMMMMMMMM.png" alt="To-Do List Preview" width="700">
 </p>
 
 ## 🛠️ Technologies
